@@ -1,0 +1,6 @@
+{
+  "name": "Lumen",
+  "description": "Lumen is a modern, intelligent AI-powered study and learning assistant by Rauf.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
